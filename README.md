@@ -7,7 +7,7 @@ A SQL-based analysis project solving real-world business questions on Pizza Hut 
 - SQL (MySQL)
 - Joins, Aggregations, Group By
 - Window Functions (Cumulative Revenue)
-- PowerPoint (for report presentation)
+- Canva (for report presentation)
 
 ## Analysis Tasks Solved
 | Analysis Task | Description |
