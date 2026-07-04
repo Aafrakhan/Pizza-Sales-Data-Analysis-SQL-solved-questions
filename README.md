@@ -38,5 +38,3 @@ A SQL-based analysis project solving real-world business questions on Pizza Hut 
 - `Pizza Sales Report Presentation.pdf` – Final presentation summarizing findings
 - `README.md` – Project documentation
 
-## Author
-**Aafra Khan**
