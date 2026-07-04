@@ -1,7 +1,7 @@
 # Pizza Sales Data - SQL Solved Questions
 
 ## Overview
-A SQL-based analysis project solving real-world business questions on Pizza Hut sales data. The project covers order volume, revenue trends, product performance, and time-based ordering patterns with results compiled into a presentation report.
+A SQL-based analysis project solving real-world business questions on Pizza sales data. The project covers order volume, revenue trends, product performance, and time-based ordering patterns with results compiled into a presentation report.
 
 ## Tools Used
 - SQL (MySQL)
