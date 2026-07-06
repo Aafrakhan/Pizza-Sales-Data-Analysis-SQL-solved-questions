@@ -1,4 +1,4 @@
-# Pizza Sales Data - SQL Data Analysis
+# Pizza Sales Data - Data Analysis - SQL
 
 ## Overview
 A SQL-based analysis project solving real-world business questions on Pizza sales data. The project covers order volume, revenue trends, product performance, and time-based ordering patterns with results compiled into a presentation report.
